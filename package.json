@@ -1,0 +1,23 @@
+{
+  "name": "npm-project",
+  "version": "2.0.0",
+  "description": "\"\",",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"npm basics\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierCarty95/edX-.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierCarty95/edX-/issues"
+  },
+  "homepage": "https://github.com/XavierCarty95/edX-#readme"
+}
