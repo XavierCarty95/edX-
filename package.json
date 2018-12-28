@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/XavierCarty95/edX-/issues"
   },
-  "homepage": "https://github.com/XavierCarty95/edX-#readme"
+  "homepage": "https://github.com/XavierCarty95/edX-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
 }
