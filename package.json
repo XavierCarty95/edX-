@@ -5,7 +5,7 @@
   "main": "npm.js",
   "scripts": {
     "test": "echo \"npm basics\"",
-    "start": "node server.js"
+    "start": "./node_modules/.bin/node-dev server2.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,7 @@
   "dependencies": {
     "express": "^4.16.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "node-dev": "3.1.3"
+  }
 }
