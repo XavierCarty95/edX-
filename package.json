@@ -5,7 +5,7 @@
   "main": "npm.js",
   "scripts": {
     "test": "echo \"npm basics\"",
-    "start": "./node_modules/.bin/node-dev server2.js"
+    "start": "node-dev routes.js"
   },
   "repository": {
     "type": "git",
